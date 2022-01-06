@@ -1,0 +1,5 @@
+com\mahfooz\mapreduce\job\MaxTemperatureJob.class
+com\mahfooz\mapreduce\job\MaxTemperatureCombinerJob.class
+com\mahfooz\mapreduce\combiner\MaxTemperatureCombiner.class
+com\mahfooz\mapreduce\reducer\MaxTemperatureReducer.class
+com\mahfooz\mapreduce\mapper\MaxTemperatureMapper.class
